@@ -1,0 +1,12 @@
+# Azure secrets
+*.key
+*.pem
+.env
+.env.*
+sas-token.txt
+storage-keys.txt
+
+# OS/editor files
+Thumbs.db
+.DS_Store
+.vscode/
